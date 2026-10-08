@@ -32,4 +32,4 @@ Proyecto del Capítulo 1: Fundamentos del Web FullStack, hecho como parte del cu
 
 ## 📬 Contacto
 - Email: friasmayaeowynxiomara@gmail.com
-- GitHub: [tu-usuario]
+- GitHub: friasmayaeowynxiomara-cmyk
