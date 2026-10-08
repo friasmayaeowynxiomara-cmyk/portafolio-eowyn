@@ -25,7 +25,7 @@ Sitio web personal construido con HTML5 semántico, CSS3 moderno y JavaScript va
 ## 📊 Resultados Lighthouse
 | Accessibility | Best Practices | Performance | SEO |
 |---|---|---|---|
-| __ | __ | __ | __ |
+| 90 | 100 | 100 | 100 |
 
 ## 🎓 Aprendizaje
 Proyecto del Capítulo 1: Fundamentos del Web FullStack, hecho como parte del curso de programación.
