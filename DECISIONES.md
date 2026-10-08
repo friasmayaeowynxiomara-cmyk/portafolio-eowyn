@@ -6,7 +6,7 @@ Aquí explico POR QUÉ tomé cada decisión, para entenderla si vuelvo a este c�
 Inicio, Sobre mí, Proyectos, Habilidades, Formación y Contacto. Es el orden que pide el capítulo 1.12 y además cuenta una historia: quién soy, qué hago, qué sé y cómo contactarme.
 
 ## 2. Identidad visual
-- **Idea central:** mi página une química y computación, así que la sección de inicio lleva una ficha como las de la tabla periódica con el símbolo **Xe** (de Xiomara).
+- **Idea central:** mi página une química y computación, así que la sección de inicio lleva mi foto dentro de un marco con un brillo violeta, como el color del xenón en un tubo de descarga (el símbolo **Xe** de Xiomara).
 - **Paleta (5 colores):**
   - Primario violeta `#5b35c9` (claro) / `#a68bff` (oscuro): el xenón brilla violeta-azulado en un tubo de descarga.
   - Acento turquesa `#0b7f94` (claro) / `#4fd1e6` (oscuro): contrasta bien con el violeta.

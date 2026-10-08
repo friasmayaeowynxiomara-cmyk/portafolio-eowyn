@@ -2,8 +2,8 @@
 
 Sitio web personal construido con HTML5 semántico, CSS3 moderno y JavaScript vanilla.
 
-## 🚀[friasmayaeowynxiomara-cmyk.github.io/portafolio-eowyn](https://friasmayaeowynxiomara-cmyk.github.io/portafolio-eowyn/)
-[TU-URL-PUBLICA](https://tu-url-publica)
+## 🚀 Demo en vivo
+[friasmayaeowynxiomara-cmyk.github.io/portafolio-eowyn](https://friasmayaeowynxiomara-cmyk.github.io/portafolio-eowyn/)
 
 ## ✨ Características
 - HTML5 semántico
@@ -25,11 +25,11 @@ Sitio web personal construido con HTML5 semántico, CSS3 moderno y JavaScript va
 ## 📊 Resultados Lighthouse
 | Accessibility | Best Practices | Performance | SEO |
 |---|---|---|---|
-| 90 | 100 | 100 | 100 |
+| __ | __ | __ | __ |
 
 ## 🎓 Aprendizaje
 Proyecto del Capítulo 1: Fundamentos del Web FullStack, hecho como parte del curso de programación.
 
 ## 📬 Contacto
 - Email: friasmayaeowynxiomara@gmail.com
-- GitHub: friasmayaeowynxiomara-cmyk
+- GitHub: [tu-usuario]
